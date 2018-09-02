@@ -1,0 +1,104 @@
+[
+	{
+		"id": 0,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "3",
+		"max_roomies": 3,
+		"now_roomies": 1,
+		"roomies_info": [{
+			"age": 21, "name" : "julia", "sleep_time" : "새벽 2시"
+			}]
+
+	},
+	{
+		"id": 1,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "4",
+		"max_roomies" : 2,
+		"now_roomies" : 1,
+		"roomies_info": [{
+			"age": 22, "name" : "michell", "sleep_time" : "새벽 3시"
+			}]
+	},
+	{
+		"id": 2,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "4",
+		"max_roomies" : 2,
+		"now_roomies" : 1,
+		"roomies_info": [{
+			"age": 22, "name" : "michell", "sleep_time" :"오후 11시"
+			}]
+
+	},
+	{
+		"id": 3,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "4",
+		"max_roomies" : 2,
+		"now_roomies" : 1,
+		"roomies_info": [{
+			"age": 22, "name" : "michell", "sleep_time" : 9
+			}]
+	},
+	{
+		"id": 4,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "4",
+		"max_roomies" : 2,
+		"now_roomies" : 1,
+		"roomies_info": [{
+			"age": 22, "name" : "michell", "sleep_time" : 9
+			}]
+	},
+	{
+		"id": 5,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "4",
+		"max_roomies" : 2,
+		"now_roomies" : 1,
+		"roomies_info": [{
+			"age": 19, "name" : "mike", "sleep_time" : 2
+			}]
+	},
+	{
+		"id": 6,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "4",
+		"max_roomies" : 2,
+		"now_roomies" : 1,
+		"roomies_info": [{
+			"age": 22, "name" : "michell", "sleep_time" : 1
+			}]
+	},
+	{
+		"id": 7,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "4",
+		"max_roomies" : 2,
+		"now_roomies" : 1,
+		"roomies_info": [{
+			"age": 22, "name" : "michell", "sleep_time" : 23
+			}]
+	},
+	{
+		"id": 8,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "4",
+		"max_roomies" : 2,
+		"now_roomies" : 1,
+		"roomies_info": [{
+			"age": 22, "name" : "michell", "sleep_time" : 19
+			}]
+	},
+	{
+		"id": 9,
+		"description": "안락하고 깔끔한 쉐어 하우스이고 여성 전용입니다. 경비실도 바로 앞에 있는 장점이 있습니다. :)",
+		"contract": "4",
+		"max_roomies" : 2,
+		"now_roomies" : 1,
+		"roomies_info": [{
+			"age": 32, "name" : "jake", "sleep_time" : 1
+			}]
+	}
+]

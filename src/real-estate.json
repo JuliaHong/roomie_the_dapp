@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "type": "아파트",
+    "picture": "images/room0.jpg",
+    "area": "2인실",
+    "price": 1.23,
+		"progress" : 20
+  },
+  {
+    "id": 1,
+    "type": "연립주택",
+    "picture": "images/room1.png",
+    "area": "4인실",
+    "price": 1.56,
+		"progress": 70
+  },
+  {
+    "id": 2,
+    "type": "하우스",
+    "picture": "images/room2.png",
+    "area": "1인실",
+    "price": 2.74,
+		"progress":60
+  },
+  {
+    "id": 3,
+    "type": "하우스",
+    "picture": "images/room3.png",
+    "area": "3인실",
+    "price": 1.87,
+		"progress":23
+  },
+  {
+    "id": 4,
+    "type": "연립주택",
+    "picture": "images/room4.png",
+    "area": "1인실 여성전용",
+    "price": 1.97,
+		"progress":70
+  },
+  {
+    "id": 5,
+    "type": "아파트",
+    "picture": "images/room5.png",
+    "area": "113A/84",
+    "price": 1.77,
+		"progress":33
+  },
+  {
+    "id": 6,
+    "type": "아파트",
+    "picture": "images/room6.png",
+    "area": "1인실",
+    "price": 2.12,
+		"progress":92
+  },
+  {
+    "id": 7,
+    "type": "하우스",
+    "picture": "images/room7.png",
+"area" :"2인실 여성전용",
+    "price": 2.57,
+		"progress":33
+  },
+  {
+    "id": 8,
+    "type": "아파트",
+    "picture": "images/room8.png",
+    "area": "4인실",
+    "price": 1.32,
+		"progress":44
+  },
+  {
+    "id": 9,
+    "type": "연립주택",
+    "picture": "images/room9.png",
+    "area": "4인실",
+    "price": 1.11,
+		"progress":83
+  }
+]
